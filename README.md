@@ -5,7 +5,7 @@
 - 📫 How to reach me vupt@outlook.com
 - I Live in Hanoi, Viet Nam
 - My company: Space Media JSC
-- My website: bietduoc.net
+- My website: http://bietduoc.net
 
 <!---
 Bietduoc2021/Bietduoc2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
